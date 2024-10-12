@@ -14,6 +14,6 @@ public class PlayerExample2 : MonoBehaviour, IMoveable
     }
     void Update()
     {
-        Rotate(33f, 33f);
+        Rotate(66f, 66f);
     }
 }
